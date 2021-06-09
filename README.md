@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @ Yuber7
+- 👀 I'm interested in web development.
+- 🌱 I am currently learning to be a tester and improving my knowledge of CSS and HTML.
+- 💞️ I am looking to collaborate on a Web project to help in the Front-end part.
+- 📫 Email: mirandayuber7@gmail.com
+- 📱 Phone: 3013680143
